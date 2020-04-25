@@ -18,15 +18,6 @@ At the core of DAMASK is a flexible and hierarchically structured model of mater
 | :------: | :---------: | :------------: | :------------: | :-------: |
 | [:globe_with_meridians:](https://damask.mpie.de) | [:package:](https://magit1.mpie.de) | [:books:](https://damask.mpie.de/bin/view/Documentation/WebHome) | [:rocket:](https://anaconda.org/conda-forge/damask) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/damask-example/master) |
 
-## David Mercier Matlab functions
-Author: [David Mercier](https://www.mpie.de/person/43154/2281)
-
-Various Matlab functions / code
-
-| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
-| :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/DavidMercier/Matlab_functions) | | | |
-
 ## DeepHeisenberg
 Author: [Ye Wei](https://www.mpie.de/person/59261)
 
@@ -108,6 +99,16 @@ Pyvaporate enables the simulated evaporation of atom-probe tips. It uses a monte
 | :------: | :---------: | :------------: | :------------: | :-------: |
 | | [:package:](https://github.com/ashtonmv/pyvaporate) | | | |
 
+## STABiX
+Authors: [David Mercier](https://www.mpie.de/person/43154/2281) & [Claudio Zambaldi](https://www.mpie.de/person/43194/2281)
+
+The Matlab toolbox STABiX provides a unique and simple way to analyse slip transmission in a bicrystal. Graphical User Interfaces (GUIs) are implemented in order to import EBSD results, and to represent and quantify grain boundary slip resistance. Key parameters, such as the number of phases, crystal structure (fcc, bcc, or hcp), and slip families for calculations, are set by the user. With this information, grain boundaries are plotted and color coded according to the m factor that quantifies the geometrical compatibility of the slip planes normals and Burgers vectors of incoming and outgoing slip systems. Other potential functions that could assess the potential to develop damage are implemented (e.g. residual Burgers vector and N factor, resolved shear stress, misorientation...).
+
+| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
+| :------: | :---------: | :------------: | :------------: | :-------: |
+| | [:package:](https://github.com/stabix/stabix) | [:books:](https://stabix.readthedocs.io/en/latest/) | | |
+
+
 ## TEMMETA
 Author: [Niels Cautaerts](https://www.mpie.de/person/102166/3730607)
 
@@ -116,3 +117,12 @@ TEMMETA is a library for transmission electron microscopy (TEM) (meta)data manip
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
 | | [:package:](https://github.com/din14970/TEMMETA) | | | |
+
+## upho
+Author: [Yuji Ikeda](https://www.mpie.de/person/52762/2768816)
+
+Band unfolding for phonons
+
+| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
+| :------: | :---------: | :------------: | :------------: | :-------: |
+| | [:package:](https://github.com/yuzie007/upho) | [:books:](http://yuzie007.github.io/upho/) | | |
