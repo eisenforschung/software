@@ -11,6 +11,7 @@ ClusterGB is a set of Python scripts designed to facilitate easy calculations of
 
 ## DAMASK — the Düsseldorf Advanced Material Simulation Kit
 Authors: [Franz Roters](https://www.mpie.de/person/43166/2890953) & [Martin Diehl](https://www.mpie.de/person/43124/2890953)
+
 At the core of DAMASK is a flexible and hierarchically structured model of material point behavior for the solution of elastoplastic boundary value problems along with damage and thermal physics. Its main purpose is the simulation of crystal plasticity within a finite-strain continuum mechanical framework.
 
 | Website: | Repository: | Conda Package: | MyBinder: |
@@ -54,7 +55,7 @@ S/PHI/nX is a C++ library for materials simulation, mostly electronic-structure 
 | [:globe_with_meridians:](https://sxrepo.mpie.de) | [:package:](https://sxrepo.mpie.de/projects/sphinx/repository) | [:rocket:](https://anaconda.org/conda-forge/sphinxdft) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/sphinx-example/master) |
 
 ## Paraprobe
-Author: [Markus Kuehbach](https://www.mpie.de/person/51206)
+Author: [Markus Kühbach](https://www.mpie.de/person/51206)
 
 Strong scaling distributed- and shared-memory CPU-parallelized tools for mining Atom Probe Tomography data and GPU-parallelized Atom Probe Crystallography tools.
 
