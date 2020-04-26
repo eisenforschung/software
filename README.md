@@ -116,7 +116,7 @@ TEMMETA is a library for transmission electron microscopy (TEM) (meta)data manip
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/din14970/TEMMETA) | | | |
+| | [:package:](https://github.com/din14970/TEMMETA) | | [:rocket:](https://anaconda.org/conda-forge/temmeta) | |
 
 ## upho
 Author: [Yuji Ikeda](https://www.mpie.de/person/52762/2768816)
