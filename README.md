@@ -90,14 +90,14 @@ Automatic segmentation of Scanning Transmission Electron Microscope (STEM) image
 | | [:package:](https://github.com/NingWang1990/pySTEM) | | | |
 
 
-## pyvaporate
+## pyrho
 Author: [Michael Ashton](https://www.mpie.de/person/59395/2656491)
 
-Pyvaporate enables the simulated evaporation of atom-probe tips. It uses a monte carlo approach for evaporation events (TAPsim), interrupted by molecular dynamics relaxations (LAMMPS) at specified intervals to allow for simulated temperature and surface migration. Evaporation fields for each atom in the emitter are updated after each relaxation interval based on their coordination numbers to allow the dynamic assignment of site-specific evaporation fields.
+Pyrho is a small real-space DFT code written in Python. It is not built to be super-fast or super-scalable, but rather to be super-readable.
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/ashtonmv/pyvaporate) | | | |
+| | [:package:](https://github.com/ashtonmv/pyrho) | | | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashtonmv/pyrho/master) |
 
 ## STABiX
 Authors: [David Mercier](https://www.mpie.de/person/43154/2281) & [Claudio Zambaldi](https://www.mpie.de/person/43194/2281)
