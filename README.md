@@ -80,16 +80,6 @@ To orchestrate the method development in the CM department and to integrate the 
 | :------: | :---------: | :------------: | :------------: | :-------: |
 | [:globe_with_meridians:](https://pyiron.org) | [:package:](https://github.com/pyiron) | [:books:](https://pyiron.readthedocs.io/en/latest/) | [:rocket:](https://anaconda.org/conda-forge/pyiron) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/pyiron/master) |
 
-## pySTEM 
-Author: [Ning Wang](https://www.mpie.de/person/100034/2891349)
-
-Automatic segmentation of Scanning Transmission Electron Microscope (STEM) images based on the local-correlation-map descriptor
-
-| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
-| :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/NingWang1990/pySTEM) | | | |
-
-
 ## pyrho
 Author: [Michael Ashton](https://www.mpie.de/person/59395/2656491)
 
@@ -98,6 +88,15 @@ Pyrho is a small real-space DFT code written in Python. It is not built to be su
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
 | | [:package:](https://github.com/ashtonmv/pyrho) | | | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashtonmv/pyrho/master) |
+
+## pySTEM 
+Author: [Ning Wang](https://www.mpie.de/person/100034/2891349)
+
+Automatic segmentation of Scanning Transmission Electron Microscope (STEM) images based on the local-correlation-map descriptor
+
+| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
+| :------: | :---------: | :------------: | :------------: | :-------: |
+| | [:package:](https://github.com/NingWang1990/pySTEM) | | | |
 
 ## STABiX
 Authors: [David Mercier](https://www.mpie.de/person/43154/2281) & [Claudio Zambaldi](https://www.mpie.de/person/43194/2281)
@@ -116,7 +115,7 @@ TEMMETA is a library for transmission electron microscopy (TEM) (meta)data manip
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/din14970/TEMMETA) | | [:rocket:](https://anaconda.org/conda-forge/temmeta) | |
+| | [:package:](https://github.com/din14970/TEMMETA) | | [:rocket:](https://anaconda.org/conda-forge/temmeta) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/din14970/TEMMETA/master?filepath=examples%2FTEMMETA%20demonstration.ipynb) |
 
 ## upho
 Author: [Yuji Ikeda](https://www.mpie.de/person/52762/2768816)
