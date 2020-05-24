@@ -16,7 +16,7 @@ At the core of DAMASK is a flexible and hierarchically structured model of mater
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| [:globe_with_meridians:](https://damask.mpie.de) | [:package:](https://magit1.mpie.de) | [:books:](https://damask.mpie.de/bin/view/Documentation/WebHome) | [:rocket:](https://anaconda.org/conda-forge/damask) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/damask-example/master) |
+| [:globe_with_meridians:](https://damask.mpie.de) | [:package:](https://magit1.mpie.de) | [:books:](https://damask.mpie.de/bin/view/Documentation/WebHome) | [:rocket:](https://anaconda.org/conda-forge/damask) |  |
 
 ## DeepHeisenberg
 Author: [Ye Wei](https://www.mpie.de/person/59261)
@@ -42,7 +42,7 @@ This python package helps you create orthogonal grain boundary supercells for at
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| | [:package:](https://github.com/oekosheri/GB_code) | | | |
+| | [:package:](https://github.com/oekosheri/GB_code) | | | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oekosheri/GB_code/master) |
 
 ## SPHInX
 Authors: Sixten Boeck & [Christoph Freysoldt](https://www.mpie.de/person/39857)
@@ -51,7 +51,7 @@ S/PHI/nX is a C++ library for materials simulation, mostly electronic-structure 
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| [:globe_with_meridians:](https://sxrepo.mpie.de) | [:package:](https://sxrepo.mpie.de/projects/sphinx/repository) | [:books:](https://sxrepo.mpie.de/attachments/download/43/sphinx-manual-2.6.1.pdf) | [:rocket:](https://anaconda.org/conda-forge/sphinxdft) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/sphinx-example/master) |
+| [:globe_with_meridians:](https://sxrepo.mpie.de) | [:package:](https://sxrepo.mpie.de/projects/sphinx/repository) | [:books:](https://sxrepo.mpie.de/attachments/download/43/sphinx-manual-2.6.1.pdf) | [:rocket:](https://anaconda.org/conda-forge/sphinxdft) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/sphinx-example/master) |
 
 ## Paraprobe
 Author: [Markus Kühbach](https://www.mpie.de/person/51206)
