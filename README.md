@@ -16,7 +16,7 @@ At the core of DAMASK is a flexible and hierarchically structured model of mater
 
 | Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
 | :------: | :---------: | :------------: | :------------: | :-------: |
-| [:globe_with_meridians:](https://damask.mpie.de) | [:package:](https://magit1.mpie.de) | [:books:](https://damask.mpie.de/bin/view/Documentation/WebHome) | [:rocket:](https://anaconda.org/conda-forge/damask) |  |
+| [:globe_with_meridians:](https://damask.mpie.de) | [:package:](https://magit1.mpie.de) | [:books:](https://damask.mpie.de/bin/view/Documentation/WebHome) | [:rocket:](https://anaconda.org/conda-forge/damask) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matbinder/DAMASK-example/master?filepath=DAMASK_WORKFLOWS.ipynb) |
 
 ## DeepHeisenberg
 Author: [Ye Wei](https://www.mpie.de/person/59261)
