@@ -1,5 +1,15 @@
 # Software developed at the Max Planck Institut für Eisenforschung
 
+
+## ASSYST
+Author: [Marvin Poul](https://www.mpie.de/person/109719/5056820)
+
+ASSYST is the _Automated Small Symmetric Structure Training_, a framework to generate training data for transferable machine learning potentials automatically from minimal human input.  This package is the stand-alone reference implementation.
+
+| Website: | Repository: | Documentation: | Conda Package: | MyBinder: |
+| :------: | :---------: | :------------: | :------------: | :-------: |
+| | [:package:](https://github.com/eisenforschung/assyst) | [:books:](https://assyst.readthedocs.io/stable) | [:rocket:](https://anaconda.org/conda-forge/assyst)| |
+
 ## Cluster GB
 Author: [Liam Huber](https://www.mpie.de/person/47229/3079071)
 
